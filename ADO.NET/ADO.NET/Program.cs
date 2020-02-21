@@ -10,7 +10,8 @@ namespace ADO.NET
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Compiled succesfully!");
+            Console.ReadKey();
         }
     }
 }
