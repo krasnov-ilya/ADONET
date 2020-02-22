@@ -4,3 +4,6 @@ C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
 C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csprojAssemblyReference.cache
 C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
 C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.CopyComplete

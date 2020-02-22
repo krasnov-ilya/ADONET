@@ -14,10 +14,21 @@ namespace PresentationLayer
                        { 
                             Id = car.Id, 
                             Name = car.Name, 
-                            detailViewModels = car.details 
+                            Details = GetDetails(car.Id)
                        };
 
             return cars;
+        }
+
+        public IEnumerable<DetailViewModel> GetDetails(int id)
+        {
+            var details = from detail in carService.GetDetails(id)
+                          select new DetailViewModel()
+                          {
+                              Id = detail.Id,
+                              Name = detail.Name
+                          };
+            return details;
         }
     }
 }

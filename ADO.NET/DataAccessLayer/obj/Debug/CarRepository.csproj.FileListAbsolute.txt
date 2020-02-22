@@ -1,0 +1,5 @@
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\DataAccessLayer\obj\Debug\CarRepository.csprojAssemblyReference.cache
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ilya\Documents\GitHub\ADONET\ADO.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -70,7 +70,8 @@ namespace DataAccessLayer
                         result.Add(new Car
                         {
                             Id = (int)reader["id"],
-                            Name = (string)reader["name"]
+                            Name = (string)reader["name"],
+                            Details = GetDetails((int)reader["id"])
                         });
                     }
                 }

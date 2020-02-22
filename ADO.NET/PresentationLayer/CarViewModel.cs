@@ -6,6 +6,6 @@ namespace PresentationLayer
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public IEnumerable<object> detailViewModels { get; set; }
+        public IEnumerable<DetailViewModel> Details { get; set; }
     }
 }
